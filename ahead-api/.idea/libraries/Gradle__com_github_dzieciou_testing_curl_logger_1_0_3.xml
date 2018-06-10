@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.dzieciou.testing:curl-logger:1.0.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.dzieciou.testing/curl-logger/1.0.3/b7bb8626360856f9c52b0f2ef2adfac5615b0caa/curl-logger-1.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.dzieciou.testing/curl-logger/1.0.3/c736213d185632acdefc0a0a04e329693d806d9e/curl-logger-1.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
